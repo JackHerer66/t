@@ -1,0 +1,19 @@
+Layer 4
+udp - 4Mib to 3.80Mib
+syn - 6Mib to 5.90Mib
+home - 4Mib to 3.50Mib
+kitchengun - 3.90Mib to 3.50Mib
+nfo - 6.11Mib to 5Mib
+tcp - 240Mib
+telnet - 4Mib to 3.80Mib
+ovh-amp - 4.50Mib to 3.80Mib
+vse - 4.40Mib - 3.90Mib
+game - 4.60Mib to 4Mib
+dns - 4Mib to 3.80Mib
+slap - 440Mib to 300Mib
+hexrape - 4Mib to 3Mib
+netrape - 440Mib to 270Mib
+stdrape - 4.70Mib to 4.10Mib
+vserape - 14Mib to 9Mib
+rezixop - 500Mib (I've got one time 1Gig)
+*I tested it on my own network

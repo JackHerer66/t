@@ -1,0 +1,7 @@
+requests
+asyncio
+asciimatics
+cloudscraper
+httpx
+ssl
+PySocks
